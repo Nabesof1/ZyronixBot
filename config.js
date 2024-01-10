@@ -28,17 +28,17 @@ import fs from 'fs'
 global.owner = [
   ['94789481495', 'Maazin', true],
 ]
-global.pairingNumber = "94771227821"
-global.mods = ['94789481495']
-global.allowed = ['94771227821', '94771227821', '94771227821']
+global.pairingNumber = "93786680898"
+global.mods = ['93786680898']
+global.allowed = ['93786680898', '94771227821', '94771227821']
 
 /*
           ⚡ WATERMARK ⚡
 */
 
-global.botname = '𝗭𝘆𝗿𝗼𝗻𝗶𝘅 𝗕𝗼𝘁 𝗠𝗗'
-global.packname = '𝗭𝗬𝗥𝗢𝗡𝗜𝗫-𝗠𝗗' 
-global.author = 'mznking' 
+global.botname = 'The Nabesof 🤍'
+global.packname = ' The Nabesof' 
+global.author = 'nabesof' 
 global.menuvid = 'https://telegra.ph/file/085c4b1068f0f4f8db970.mp4'
 global.igfg = '⚡ Follow me on instagram: https://instagram.com/@mznking' 
 global.dygp = 'https://whatsapp.com/channel/0029VaJFtkeEFeXlBhk0CD3I'
